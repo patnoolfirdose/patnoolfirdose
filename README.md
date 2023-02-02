@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**patnoolfirdose/patnoolfirdose**
+I am **ipatnoolfirdose** pursing my master degree in **Applied computer Science** at **northwest missouri state university**.really intrested in exploring the world.
+
+
 
 
 - 🔭 I’m currently working on web app development..
